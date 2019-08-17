@@ -207,4 +207,45 @@ public final class AnimationID
 
 	// POH Animations
 	public static final int INCENSE_BURNER = 3687;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	// Vorkath
+	public static final int VORKATH_ATTACK = 7952;
+	public static final int VORKATH_FIRE_BOMB_ATTACK = 7960;
+	public static final int VORKATH_ACID_ATTACK = 7957;
+
+	public static final int BLACKJACK_KO = 838;
 }
