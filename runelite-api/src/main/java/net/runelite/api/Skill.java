@@ -56,13 +56,7 @@ public enum Skill
 	/**
 	 * The level of all skills added together.
 	 */
-	OVERALL("Overall"),
-
-	// Vorkath
-	MAGERANGE("magerange"),
-	ACID("acid"),
-	ICE("ice"),
-	;
+	OVERALL("Overall");
 
 	private final String name;
 
